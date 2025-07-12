@@ -26,8 +26,15 @@
 |  There are dozens of repos you can access.  |
 |   :-:                                       |
 
-|  You choose. |
-|   :-:        |
+<div align="left"> 
+<table>
+<thead>
+<tr>
+<th>You choose!</th>
+</tr>
+</thead>
+</table>
+</div>
 
 
 
