@@ -1,4 +1,35 @@
-## Hi there 👋
+<h1 align="center"> Bedrock's Neat Chat (under construction) </h1>
+
+|   **Hi there 👋**   |
+| :-:                 |
+
+
+|  You're currently on my page. |
+|   :-:                         |
+
+|  Want to see something more?  |
+|   :-:                         |
+
+<div align="right"> 
+<table>
+<thead>
+<tr>
+<th>Yeah!</th>
+</tr>
+</thead>
+</table>
+</div>
+
+|  Good! Then let's do this!  |
+|   :-:                       |
+
+|  There are dozens of repos you can access.  |
+|   :-:                                       |
+
+|  You choose. |
+|   :-:        |
+
+
 
 <!--
 **BedrockDotPdn/BedrockDotPdn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
