@@ -30,7 +30,7 @@
 <table>
 <thead>
 <tr>
-<th>You choose!</th>
+<th><a href="https://github.com/BedrockDotPdn?tab=repositories">You choose!</a></th>
 </tr>
 </thead>
 </table>
